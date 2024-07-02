@@ -1,0 +1,5 @@
+function menuToggle()
+var nav = document.getElementsById("nav")
+var Toggle = document.getElementsById("toggle")
+nav.classlist.Toggle("active")
+Toggle.classlist.Toggle("active")
